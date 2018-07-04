@@ -3,13 +3,13 @@
 
 # Quick Start
 ```
-# Install dependencies for server
+//# Install dependencies for server
 npm install
 
-# Install dependencies for client
+//# Install dependencies for client
 npm run client-install
 
-# Run the client & server with concurrently
+//# Run the client & server with concurrently
 npm run dev
 
 # Run the Express server only
