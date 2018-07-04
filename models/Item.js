@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-// Create Scema
-const ItemScema = new Schema({
+// Create Schema
+const ItemSchema = new Schema({
     name: {
         type: String,
         required: true
