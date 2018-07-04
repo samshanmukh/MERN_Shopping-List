@@ -3,7 +3,7 @@
 
 # Quick Start
 ```
-<> # Install dependencies for server
+<!--- # Install dependencies for server -->
 npm install
 
 <> # Install dependencies for client
