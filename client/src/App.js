@@ -14,13 +14,13 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-      <div className="App">
-        <AppNavbar />
-        <Container>
-          <ItemModal />
-          <ShoppingList />
-        </Container>
-      </div>
+        <div className="App">
+          <AppNavbar />
+          <Container>
+            <ItemModal />
+            <ShoppingList />
+          </Container>
+        </div>
       </Provider>
     );
   }
